@@ -1,4 +1,4 @@
-# MetaEducation - Expérimentations
+# MetaEducation - Expérimentations (gh-pages)
 
 [Phase 1](phase1.md)
 [Phase 2](phase2.md)
