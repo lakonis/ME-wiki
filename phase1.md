@@ -1,12 +1,12 @@
-# Phase 1 - lancement des expérimentations
+# Phase 1 : pré-expérimentation
 
 La première phase des expérimentations du projet MetaEducation consiste à confronter une version prototype de la plateforme et de ses outils auprès des experts et enseignants mobilisés par les académies partenaires.
 
-La journée du 13 octobre marque ainsi le lancement des expérimentations du projet.
+La journée du 13 octobre marque ainsi le lancement de cette phase 1 qui se déroulera jusqu'en janvier 2016.
 
 ## Objectifs de la phase 1
 ------
-Cette première phase d'expérimentation jusqu'en janvier arrive en amont de l'implémentation de la plateforme elle-même, mais un certain nombre d'outils sont d'ors-et-déjà disponibles dans une version prototypale.
+Cette première phase d'expérimentation arrive en amont de l'implémentation de la plateforme elle-même, mais un certain nombre d'outils sont d'ors-et-déjà disponibles dans une version prototypale.
 
 Un des enjeux de la plateforme est bien d'intégrer ensemble les différents outils, notamment au travers d'une banque de ressource commune et partagée, en proposant une chaine d'utilisation depuis le dépot de nouveaux documents et médias, la préparation et l'enrichissement de ces resssources, jusqu'à leur agrégation dans de noueaux documents et parcours pédagogiques.
 
@@ -40,4 +40,10 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 |14h|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
 |16h30|*Fin des ateliers*|
 
-des outils la mise en situation des
+---
+## Cahier du participant
+---
+
+Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez le déroulé de la journée, ainsi que les éléments présentés.
+
+**Consultez le cahiers :**
