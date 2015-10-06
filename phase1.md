@@ -8,7 +8,7 @@ La journée du 13 octobre marque ainsi le lancement des expérimentations du pro
 ------
 Cette première phase d'expérimentation jusqu'en janvier arrive en amont de l'implémentation de la plateforme elle-même, mais un certain nombre d'outils sont d'ors-et-déjà disponibles dans une version prototypale.
 
-Un des enjeux de la plateforme est bien d'intégrer ensemble les différents outils, notamment au travers d'une banque de ressource commune et partagée, en proposant une chaine d'utilisation depuis le dépot de nouveaux documents et médias, la préparation et l'enrichissement de ces resssources, jusqu'à leur agrégation dans de noueaux documents et parcours pédagogiques.
+Un des enjeux de la plateforme est bien d'intégrer ensemble les différents outils, notamment au travers d'une banque de ressource commune et partagée, en proposant une chaine d'utilisation depuis le dépot de nouveaux documents et médias, la préparation et l'enrichissement de ces resssources, jusqu'à leur agrégation dans de nouveaux documents et parcours pédagogiques.
 
 MetaEducation proposera, à terme, une *expérience utilisateur* homogène, avec un passage fluide et cohérent entre les outils le long de cette chaine. Cependant, lors de cette première phase d'expérimentation, les outils sont proposés de manière indépendante.
 
@@ -40,4 +40,17 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 |14h|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
 |16h30|*Fin des ateliers*|
 
-des outils la mise en situation des
+------
+## Ateliers de scénarisation
+------
+
+Les ateliers seront un espace d'échange et discussion autour des scénarios présentés au matin. Les participants sont invités à les reprendre pour les suivre, les modifier, les faire évoluer, et pour se projeter dans leurs propres usages des outils.
+
+Les suivantes questions seront proposées :
+
+* Quelles informations vous permettraient de savoir si vos élèves sont engagés ou non engagés ?
+* De quelles informations auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
+* Que faites-vous de cette information ?
+* Quelles informations sont prioritaires ? à quel niveau de détail ?
+* Quand voudriez-vous consulter ces informations ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
+* Comment souhaiterez-vous l'affichage de ces informations ?
