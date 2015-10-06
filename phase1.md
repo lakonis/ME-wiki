@@ -46,7 +46,7 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 
 Les ateliers seront un espace d'échange et discussion autour des scénarios présentés au matin. Les participants sont invités à les reprendre pour les suivre, les modifier, les faire évoluer, et pour se projeter dans leurs propres usages des outils.
 
-Les suivantes questions seront proposées :
+Les questions suivantes seront posées :
 
 * Quelles informations vous permettraient de savoir si vos élèves sont engagés ou non engagés ?
 * De quelles informations auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
