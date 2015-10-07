@@ -40,7 +40,6 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 |14h|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
 |16h30|*Fin des ateliers*|
 
-<<<<<<< HEAD
 ---
 ## Cahier du participant
 ---
@@ -48,7 +47,8 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez le déroulé de la journée, ainsi que les éléments présentés.
 
 **Consultez le cahiers :**
-=======
+
+
 ------
 ## Ateliers de scénarisation
 ------
@@ -63,4 +63,3 @@ Les questions suivantes seront posées :
 * Quelles informations sont prioritaires ? à quel niveau de détail ?
 * Quand voudriez-vous consulter ces informations ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
 * Comment souhaiterez-vous l'affichage de ces informations ?
->>>>>>> origin/gh-pages
