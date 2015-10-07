@@ -8,15 +8,22 @@ Les expérimentations se déroulent en trois phases.
 
 ----
 
-Nous centralisons ici tous les accès aux ressources produites pour ces expérimentations. Vous retrouverez notamment :
+Nous centralisons ici tous les accès aux ressources produites pour ces expérimentations. Dans cette première phase vous retrouverez notamment :
 
-* les différents documents présentées lors de [la journée du 13 octobre](phase1.md)
-* les différents outils et pour chaque outils :
-
-  * une introduction à l'outil et ses enjeux pédagogiques
-  * l'accès au scénario pédagogique de référence
-  * un tutoriel de prise en main de l'outil.
-
-* le protocole de la phase 1 et les modalités du *Groupe de travail* mis en place sur l'ENT MetaEducation.
+* [les objectifs] de la phase 1,
+* un retour sur [la journée de lancement] et ses ateliers,
+* les différents outils [annotation vidéo], [carte mentale], [parcours pédagogique], et pour chacun :
+  * le scénario pédagogique de référence
+  * le tutoriel de prise en main
+  * les modes d'accès pour tester et prendre en main l'outil
+* le protocole suivi par le [Groupe de travail] mis en place sur l'ENT MetaEducation.
 
 Note: le site sera mis à jour régulièrement au cours du projet et des différentes phases d'expérimentations.
+
+
+[les objectifs]: phase1.md
+[la journée de lancement]: lancement.md
+[annotation vidéo]:
+[carte mentale]: scenar_annot.md
+[parcours pédagogique]:
+[Groupe de travail]: groupe.md
