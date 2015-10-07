@@ -1,8 +1,8 @@
-# MetaEducation - Expérimentations (GH)
+# MetaEducation - Expérimentations
 
 [Phase 1](phase1.md)
-[Phase 2](phase2.md)
-[Phase 3](phase3.md)
+[*Phase 2*]()
+[*Phase 3*]()
 
 [Annotation vidéo]()
 
@@ -15,6 +15,8 @@
   * [Scénario pédagogique](scenar_carte.md)
   * [Tutoriel outil](tuto_carte.md)
   * [Accès à l'outil](acces_carte.md)
+
+[gimmick:theme](cosmo)
 
 <!--
 * présentation des outils

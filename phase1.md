@@ -28,25 +28,28 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 
 |*horaire*|*tâche*|
 |--:|:--|
-|10h30|**Introduction de l'atelier**|
+|**10h30**|**Introduction de l'atelier**|
 ||Présentation du projet|
 ||Principes et objectifs de la future plateforme|
-|11h|**Présentation des scénarios pédagogiques**|
+|**11h**|**Présentation des scénarios pédagogiques**|
 ||1. Scénario Langues avec l'outil d'annotation vidéo|
 ||2. Scénario Français avec l'outil de carte mentale|
 ||3. Scénario XX avec l'outil de parcours pédagogique|
 ||4. Scénario XY avec l'outil de parcours pédagogique|
-|13h|*Déjeuner*|
-|14h|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
-|16h30|*Fin des ateliers*|
+|*13h*|*Déjeuner*|
+|**14h**|**Ateliers de scénarisation** ([ci-dessous][1])<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
+|*16h30*|*Fin des ateliers*|
 
 ---
 ## Cahier du participant
 ---
 
 Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez le déroulé de la journée, ainsi que les éléments présentés.
+Les différents élément du cahier sont à consulter ou à télécharger depuis les pages outils :
 
-**Consultez le cahiers :**
+* [Annotation vidéo]
+* [Carte mentale]
+* [Parcours pédagogique]
 
 
 ------
@@ -63,3 +66,8 @@ Les questions suivantes seront posées :
 * Quelles informations sont prioritaires ? à quel niveau de détail ?
 * Quand voudriez-vous consulter ces informations ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
 * Comment souhaiterez-vous l'affichage de ces informations ?
+
+[1]: phase1.md#Ateliers_de_sc%C3%A9narisation
+[Annotation vidéo]:
+[Carte mentale]: scenar_carte.md
+[Parcours pédagogique]:
