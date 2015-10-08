@@ -24,4 +24,4 @@ Dans la liste des cartes créées, le menu permet d'effectuer des actions simple
 * **consulter une carte :** ouvre la carte en lecture
 * **exporter une carte :** permet de télécharger la carte dans un fichier JSON.
 
-![Action Carte](carteaction.png) 
+![Action Carte](carteaction.png)
