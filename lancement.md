@@ -43,16 +43,26 @@ Les différents élément du cahier sont à consulter ou à télécharger depuis
 ## Ateliers de scénarisation
 ------
 
-Les ateliers seront un espace d'échange et discussion autour des scénarios présentés le matin. Les participants sont invités à les reprendre pour les suivre, les modifier, les faire évoluer, et pour se projeter dans leurs propres usages des outils.
+Les ateliers commenceront avec une petite présentation des participants qui nous permettra de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation. 
 
-Les questions suivantes seront posées :
+Les participants sont invités à se repartir en 4 groupes. Chaque groupe aura à disposition un poste de travail avec l'accès à un des outils MétaEducation (annotation vidéo, carte mentale, parcours pédagogique). 
 
-* Quelles informations vous permettraient de savoir si vos élèves sont engagés ou non engagés ?
-* De quelles informations auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
-* Que faites-vous de cette information ?
-* Quelles informations sont prioritaires ? à quel niveau de détail ?
-* Quand voudriez-vous consulter ces informations ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
-* Comment souhaiterez-vous l'affichage de ces informations ?
+Dans chaque groupe un scénario sera repris. Les participants pourront le suivre, le modifier, le faire évoluer, et se projeter dans leurs propres usages de l'outil utilisé. Les cahiers de support seront utiles pour se repérer ou pour prendre de notes lors des ateliers.
+
+Les questions suivantes seront posées afin de susciter des échanges et des discussions entre les membres de chaque groupe :
+
+* Comment identifiez-vous l'engagement ou non-engagement de vos élèves ? quelles sont les pistes ou les indices pour détecter cet engagement ou non-engagement ?
+* De quelles indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
+* Qu'est ce que vous en faites ?
+* Quelles indices sont prioritaires ? à quel niveau de détail ?
+* Quand voudriez-vous consulter ces indices ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
+* Comment souhaiterez-vous l'affichage de ces indices ?
+
+Les retours des participants en termes d'ergonomie et d'usages sont fortement souhaités. Nous voudrions savoir :
+
+* Quelles fonctionnalités sont privilégiées, et dans quel ordre sont-elles utilisées pour la réalisation des tâches proposées dans le scénario ? 
+
+
 
 [1]: phase1.md#Ateliers_de_sc%C3%A9narisation
 [Annotation vidéo]:
