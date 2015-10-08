@@ -45,7 +45,7 @@ Les différents élément du cahier sont à consulter ou à télécharger depuis
 
 Les participants sont invités à se repartir en 4 groupes. Chaque groupe a à sa disposition un poste de travail avec l'accès à un des outils MétaEducation (annotation vidéo, carte mentale, parcours pédagogique).
 
-Les ateliers commencent avec une petite présentation des participants qui nous permet de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation. 
+Les ateliers commencent avec une petite présentation des participants pour nous permettre de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation. 
 
 Chaque groupe reprend le scénario d'usage de l'outil présenté le matin. Les participants sont invités à le discuter, le modifier, le faire évoluer, et se projeter dans leurs propres usages de l'outil utilisé. Les cahiers de support sont à disposition pour se repérer ou pour prendre des notes lors de l'atelier.
 
@@ -58,7 +58,7 @@ Les retours des participants en termes d'ergonomie et d'usages sont fortement so
 
 Les questions suivantes sont également posées afin de susciter des échanges et des discussions entre les membres de chaque groupe :
 
-* Comment identifiez-vous que vos élèves sont engagés ou non ? avec quelles indices ?
+* Comment identifiez-vous que vos élèves sont engagés ou non ? avec quels indices ?
 * De quels indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
 * Qu'est ce que vous en faites ?
 * Quelles indices sont prioritaires ?
