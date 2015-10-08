@@ -43,25 +43,27 @@ Les différents élément du cahier sont à consulter ou à télécharger depuis
 ## Ateliers de scénarisation
 ------
 
-Les ateliers commenceront avec une petite présentation des participants qui nous permettra de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation. 
+Les participants sont invités à se repartir en 4 groupes. Chaque groupe a à sa disposition un poste de travail avec l'accès à un des outils MétaEducation (annotation vidéo, carte mentale, parcours pédagogique).
 
-Les participants sont invités à se repartir en 4 groupes. Chaque groupe aura à disposition un poste de travail avec l'accès à un des outils MétaEducation (annotation vidéo, carte mentale, parcours pédagogique). 
+Les ateliers commencent avec une petite présentation des participants qui nous permet de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation. 
 
-Dans chaque groupe un scénario sera repris. Les participants pourront le suivre, le modifier, le faire évoluer, et se projeter dans leurs propres usages de l'outil utilisé. Les cahiers de support seront utiles pour se repérer ou pour prendre de notes lors des ateliers.
+Chaque groupe reprend le scénario d'usage de l'outil présenté le matin. Les participants sont invités à le discuter, le modifier, le faire évoluer, et se projeter dans leurs propres usages de l'outil utilisé. Les cahiers de support sont à disposition pour se repérer ou pour prendre des notes lors de l'atelier.
 
-Les questions suivantes seront posées afin de susciter des échanges et des discussions entre les membres de chaque groupe :
+Les retours des participants en termes d'ergonomie et d'usages sont fortement souhaités. Dans le scénario proposé par le groupe, pourriez-vous préciser :
 
-* Comment identifiez-vous l'engagement ou non-engagement de vos élèves ? quelles sont les pistes ou les indices pour détecter cet engagement ou non-engagement ?
-* De quelles indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
+* Quelles fonctionnalités sont utilisées ?
+* Pour réaliser quelles activités pédagogiques ?
+* Pour quels objectifs d'apprentissage ?
+* Dans quel ordre ? 
+
+Les questions suivantes sont également posées afin de susciter des échanges et des discussions entre les membres de chaque groupe :
+
+* Comment identifiez-vous que vos élèves sont engagés ou non ? avec quelles indices ?
+* De quels indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
 * Qu'est ce que vous en faites ?
-* Quelles indices sont prioritaires ? à quel niveau de détail ?
+* Quelles indices sont prioritaires ?
 * Quand voudriez-vous consulter ces indices ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
-* Comment souhaiterez-vous l'affichage de ces indices ?
-
-Les retours des participants en termes d'ergonomie et d'usages sont fortement souhaités. Nous voudrions savoir :
-
-* Quelles fonctionnalités sont privilégiées, et dans quel ordre sont-elles utilisées pour la réalisation des tâches proposées dans le scénario ? 
-
+* Sous quelle forme souhaitez-vous voir ces indices ?
 
 
 [1]: phase1.md#Ateliers_de_sc%C3%A9narisation
