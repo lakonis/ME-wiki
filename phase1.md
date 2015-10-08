@@ -16,4 +16,4 @@ L'objectif jusqu'en janvier est de **vous associer à la conception finale des o
 
 Vous serez amenés à découvrir, tester et prendre en main les outils, afin d'être autonome pour **anticiper des applications de ces outils en classe**, et élaborer des scénarios pédagogiques. Vos **retours d'expérience** receuillis tout au long de la phase 1 nous permettront d'identifier les attentes pédagogiques de la plateforme et vos besoins en terme de fonctionnalités.
 
-Lire la suite : [Lancement (13 oct 2015)](lancement.md)
+<i class="fa fa-arrow-right"></i> Lire la suite : [Lancement (13 oct 2015)](lancement.md)
