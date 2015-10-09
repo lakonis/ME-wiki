@@ -28,35 +28,42 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 |*16h30*|*Fin des ateliers*|
 
 ------
-## Cahier du participant
+## Cahier de support
 ------
 
-Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez le déroulé de la journée, ainsi que les éléments présentés.
-Les différents élément du cahier sont à consulter ou à télécharger depuis les pages outils :
+Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez uniquement les présentations des scénarios. Ce cahier vous permet de prendre des notes pendant les présentations, afin d'alimenter les discussions lors des ateliers de l'après-midi.
 
-* [Annotation vidéo]
-* [Carte mentale]
-* [Parcours pédagogique]
+Note: tous les éléments présentés sont à consulter ou à télécharger depuis les pages outils : [Annotation vidéo], [Carte mentale], [Parcours pédagogique].
 
 
 ------
 ## Ateliers de scénarisation
 ------
 
-Les participants sont invités à se repartir en 4 groupes. Chaque groupe a à sa disposition un poste de travail avec l'accès à un des outils MétaEducation (annotation vidéo, carte mentale, parcours pédagogique).
+Les participants se répartissent en 4 groupes selon le scénario ou l'outil qu'il souhaite discuter. Pour chaque groupe, un poste de travail donne accès à un des outils MétaEducation. Il y aura donc une table *annotation vidéo*, une table *carte mentale*, une table *parcours pédagogique* et une table *plateforme MetaEducation*.
 
-Les ateliers commencent avec une petite présentation des participants pour nous permettre de mieux connaître leurs motivations et leurs attentes face au projet MetaEducation.
+Il s'agira pour chaque groupe de **déboucher en fin de séance sur un nouveau scénario pédagogique**, soit en adaptant et en améliorant celui qui aura été proposé, soit en concevant un tout nouveau scénario.
 
-Chaque groupe reprend le scénario d'usage de l'outil présenté le matin. Les participants sont invités à le discuter, le modifier, le faire évoluer, et se projeter dans leurs propres usages de l'outil utilisé. Les cahiers de support sont à disposition pour se repérer ou pour prendre des notes lors de l'atelier.
+Les ateliers commencent avec **un rapide tour de table** des participants pour nous permettre de mieux connaître vos motivations et vos attentes sur le projet MetaEducation.
 
-Les retours des participants en termes d'ergonomie et d'usages sont fortement souhaités. Dans le scénario proposé par le groupe, pourriez-vous préciser :
+Sur la base du scénario pédagogique présenté le matin et des questions posées, nous essaierons de dégager quelques points de discussion sur le scénario et sur l'outil.
+
+Les discussions pourront porter sur l'intérêt pédagogique du scénario, sur l'ergonomie de l'outil, sur les ressources et contenus à utiliser, sur l'usage de l'enseignant et sur *ceux* des élèves.
+
+Hint: *Une fiche scénario* permettra à chaque groupe de récolter les retours et les idées évoquées lors de l'atelier, ainsi que de rédiger brièvement le scénario pédagogique final.
+*Les cahiers de support* sont à disposition pour se repérer ou pour prendre des notes lors de l'atelier.
+
+
+---
+
+A titre indicatif, quelques questions pour orienter la discussion :
 
 * Quelles fonctionnalités sont utilisées ?
 * Pour réaliser quelles activités pédagogiques ?
 * Pour quels objectifs d'apprentissage ?
 * Dans quel ordre ?
 
-Les questions suivantes sont également posées afin de susciter des échanges et des discussions entre les membres de chaque groupe :
+Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario :
 
 * Comment identifiez-vous que vos élèves sont engagés ou non ? avec quels indices ?
 * De quels indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
@@ -66,7 +73,7 @@ Les questions suivantes sont également posées afin de susciter des échanges e
 * Sous quelle forme souhaitez-vous voir ces indices ?
 
 
-[1]: phase1.md#Ateliers_de_sc%C3%A9narisation
+
 [Annotation vidéo]: scenar_annot.md
 [Carte mentale]: scenar_carte.md
 [Parcours pédagogique]:
