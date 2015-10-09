@@ -33,7 +33,7 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 
 Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez uniquement les présentations des scénarios. Ce cahier vous permet de prendre des notes pendant les présentations, afin d'alimenter les discussions lors des ateliers de l'après-midi.
 
-Note: tous les éléments présentés sont à consulter ou à télécharger depuis les pages outils : [Annotation vidéo], [Carte mentale], [Parcours pédagogique].
+<i class="fa fa-arrow-right"></i> Tous les éléments présentés sont à consulter ou à télécharger depuis les pages outils : [Annotation vidéo], [Carte mentale], [Parcours pédagogique].
 
 
 ------
