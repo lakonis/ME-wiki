@@ -23,7 +23,7 @@ Note: le site sera mis à jour régulièrement au cours du projet et des différ
 
 [les objectifs]: phase1.md
 [la journée de lancement]: lancement.md
-[annotation vidéo]:
-[carte mentale]: scenar_annot.md
+[annotation vidéo]: scenar_annot.md
+[carte mentale]: scenar_carte.md
 [parcours pédagogique]:
 [Groupe de travail]: groupe.md
