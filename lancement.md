@@ -15,8 +15,8 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 
 |*horaire*|*tâche*|
 |--:|:--|
-|**10h30**|**Introduction de l'atelier**<br>Présentation du projet<br>Principes et objectifs de la future plateforme|
-|**11h**|**Présentation des scénarios pédagogiques**<br>1. Scénario Langues avec l'outil d'annotation vidéo<br>2. Scénario Français avec l'outil de carte mentale<br>3. Scénario XX avec l'outil de parcours pédagogique<br>4. Scénario XY avec l'outil de parcours pédagogique|
+|**10h30**|**Introduction de l'atelier**<br>Contexte du projet MetaEducation<br>Principes et objectifs de la future plateforme<br>Objectifs de l'atelier|
+|**11h**|**Présentation des scénarios pédagogiques**<br>1. Scénario Langues - outil d'annotation vidéo<br>2. Scénario Français - outil de carte mentale<br>3. Scénario XX - outil de parcours pédagogique<br>4. Scénario XY - outil de parcours pédagogique|
 |*13h*|*Déjeuner*|
 |**14h**|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
 |*16h30*|*Fin des ateliers*|
