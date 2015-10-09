@@ -15,14 +15,8 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 
 |*horaire*|*tâche*|
 |--:|:--|
-|**10h30**|**Introduction de l'atelier**|
-||Présentation du projet|
-||Principes et objectifs de la future plateforme|
-|**11h**|**Présentation des scénarios pédagogiques**|
-||1. Scénario Langues avec l'outil d'annotation vidéo|
-||2. Scénario Français avec l'outil de carte mentale|
-||3. Scénario XX avec l'outil de parcours pédagogique|
-||4. Scénario XY avec l'outil de parcours pédagogique|
+|**10h30**|**Introduction de l'atelier**<br>Présentation du projet<br>Principes et objectifs de la future plateforme|
+|**11h**|**Présentation des scénarios pédagogiques**<br>1. Scénario Langues avec l'outil d'annotation vidéo<br>2. Scénario Français avec l'outil de carte mentale<br>3. Scénario XX avec l'outil de parcours pédagogique<br>4. Scénario XY avec l'outil de parcours pédagogique|
 |*13h*|*Déjeuner*|
 |**14h**|**Ateliers de scénarisation**<br/>Les participants se répartissent selon leur intérêt sur quatre tables, chacune étant dédiée à un outil.|
 |*16h30*|*Fin des ateliers*|
@@ -40,37 +34,43 @@ Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez uni
 ## Ateliers de scénarisation
 ------
 
+L’objectif de l’atelier est double :
+1.	**Avoir des retours sur les usages possibles** des outils MétaEducation sous la forme de scénarios
+2.	Identifier les besoins des enseignants en terme de **tableau de bord pour le suivi des élèves**
+
+
 Les participants se répartissent en 4 groupes selon le scénario ou l'outil qu'il souhaite discuter. Pour chaque groupe, un poste de travail donne accès à un des outils MétaEducation. Il y aura donc une table *annotation vidéo*, une table *carte mentale*, une table *parcours pédagogique* et une table *plateforme MetaEducation*.
 
 Il s'agira pour chaque groupe de **déboucher en fin de séance sur un nouveau scénario pédagogique**, soit en adaptant et en améliorant celui qui aura été proposé, soit en concevant un tout nouveau scénario.
 
 Les ateliers commencent avec **un rapide tour de table** des participants pour nous permettre de mieux connaître vos motivations et vos attentes sur le projet MetaEducation.
 
-Sur la base du scénario pédagogique présenté le matin et des questions posées, nous essaierons de dégager quelques points de discussion sur le scénario et sur l'outil.
+Sur la base du scénario pédagogique présenté le matin et des questions posées, nous essaierons de dégager quelques points de discussion sur le scénario, l'outil et le tableau de bord associé.
 
-Les discussions pourront porter sur l'intérêt pédagogique du scénario, sur l'ergonomie de l'outil, sur les ressources et contenus à utiliser, sur l'usage de l'enseignant et sur *ceux* des élèves.
+Les discussions pourront porter sur l'intérêt pédagogique du scénario d'usage de l'outil, sur l'ergonomie de l'outil, sur les ressources et contenus à utiliser, sur l'usage de l'enseignant et sur *ceux* des élèves.
 
-Hint: *Une fiche scénario* permettra à chaque groupe de récolter les retours et les idées évoquées lors de l'atelier, ainsi que de rédiger brièvement le scénario pédagogique final.
-*Les cahiers de support* sont à disposition pour se repérer ou pour prendre des notes lors de l'atelier.
+Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de récolter les retours et les idées évoquées lors de l'atelier, ainsi que de rédiger brièvement le scénario pédagogique final.
+***Les cahiers de support*** sont à disposition pour se repérer ou pour prendre des notes de manière individuelle pendant la session du matin.
 
 
 ---
 
-A titre indicatif, quelques questions pour orienter la discussion :
+A titre indicatif, quelques questions pour orienter la discussion&nbsp;:
 
-* Quelles fonctionnalités sont utilisées ?
+* Quels sont ses objectifs d’apprentissage ?
 * Pour réaliser quelles activités pédagogiques ?
-* Pour quels objectifs d'apprentissage ?
-* Dans quel ordre ?
+* Avec quels contenus pédagogiques ?
+* Quelles fonctionnalités sont utilisées ? dans quelle ordre d’utilisation ?
 
-Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario :
+
+Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario, en vue de concevoir un tableau de bord pour l'enseignant :
 
 * Comment identifiez-vous que vos élèves sont engagés ou non ? avec quels indices ?
 * De quels indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
 * Qu'est ce que vous en faites ?
 * Quelles indices sont prioritaires ?
 * Quand voudriez-vous consulter ces indices ? chaque cours ? chaque fin de semaine ? en début ? en fin ? (périodicité, moment)
-* Sous quelle forme souhaitez-vous voir ces indices ?
+* Sous quelle forme souhaitez-vous voir ces indices sur le tableau de bord ?
 
 
 
