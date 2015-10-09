@@ -16,7 +16,7 @@ Hint: Vous pouvez télécharger la présentation du scénario depuis le groupe d
 
 
 ## Scénario *Madame Bovary*
-<iframe src="https://docs.google.com/presentation/d/1jftTgQz-aXfiAN1vdwOkt-yRaYpIoRdIcXoCpANswME/embed?start=false&loop=false&delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18I_Ox2jf8ZlwbD9W9yLpjiaIUtvJpIR5QmvgEDviNXw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ou la version complète :
 <iframe src="https://docs.google.com/presentation/d/1Eif0Pq4i2Qck6VZuEl6EPIYFj8ZM3T0SMq3gLR5rEZ4/embed?start=false&loop=false&delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
