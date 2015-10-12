@@ -54,7 +54,8 @@ Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de réc
 
 ---
 
-Pendant l'atelier la discussion sera orientée de façon à répondre aux questions suivantes. 
+Pendant l'atelier la discussion sera orientée de façon à répondre aux questions suivantes.
+
 En terme d'ergonomie et d'usages, dans le scénario proposé par le groupe, pourriez-vous préciser :
 
 * Quels sont ses objectifs d’apprentissage ?
