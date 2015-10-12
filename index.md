@@ -2,9 +2,9 @@
 
 Hint: **Bienvenue sur le site des expérimentations du projet MetaEducation.**
 
-Les expérimentations se déroulent en trois phases.
+Les expérimentations se déroulent en quatre phases.
 
-![Phases des expérimentation](phase_expe.png)
+![Phases des expérimentation](phase_expe4.png)
 
 ----
 
