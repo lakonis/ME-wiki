@@ -53,11 +53,10 @@ Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de réc
 
 ---
 
-Pendant l'atelier la discussion sera orientée de façon à répondre aux questions suivantes.
+**Pendant l'atelier**, la discussion sera orientée de façon à répondre aux questions suivantes.
 
 En terme d'ergonomie et d'usages, dans le scénario proposé par le groupe, pourriez-vous préciser :
 
-<<<<<<< HEAD
 * Intérêt pédagogique ?
 * Comment l’introduire en classe, quel usage ?
 * Quels seraient les objectifs d’apprentissage ?
@@ -67,14 +66,8 @@ En terme d'ergonomie et d'usages, dans le scénario proposé par le groupe, pour
 * Outil de création/préparation de ressource, outil de scénarisation, ou support d’activité ?
 
 Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario, en vue de concevoir un tableau de bord pour l'enseignant :
-=======
-* Quels sont ses objectifs d’apprentissage ?
-* Pour réaliser quelles activités pédagogiques ?
-* Avec quels contenus pédagogiques ?
-* Quelles fonctionnalités sont utilisées ? dans quelle ordre d’utilisation ?
 
 En terme de conception d’un tableau de bord pour l’enseignant, pourriez-vous indiquer :
->>>>>>> origin/gh-pages
 
 * Comment identifiez-vous que vos élèves sont engagés ou non ? avec quels indices ?
 * De quels indices auriez-vous besoin pour identifier les causes/explications de l'engagement ou non-engagement de vos élèves ?
