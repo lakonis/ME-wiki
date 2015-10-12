@@ -22,10 +22,10 @@ Hint: Vous pouvez télécharger depuis le groupe de travail dédié [la présent
 ## Scénario *Charade*
 
 **La présentation du scénario**
-[Slides]
+<iframe src="https://docs.google.com/presentation/d/1d5005oWsiBb-zK4eowi66bIDxR4nk2fTpN1MkWJjKDU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Le document rédigé**
-<iframe src="https://docs.google.com/document/d/1YH3GSt4LcQbKf8SG5MDfKx6HYznRsJvzzJsy20fnSoM/pub?embedded=true" width="800" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/1rnBdwq66oqFs8DLOBBZy39_trOt_bxpVF45l-70kL5k/pub?embedded=true" width="800" height="600"></iframe>
 
 [slides scénario]:
 [doc scénario]:

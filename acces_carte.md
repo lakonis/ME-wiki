@@ -1,6 +1,6 @@
 ## Accès à l'outil de carte mentale
 
-L'outil est actuellement disponible dans une version prototype sur une plateforme de test. Nous avons créé un espace dédié MetaEducation sur lequel vous pouvez créer et générer vos propre cartes.
+L'outil est actuellement disponible dans une version prototype sur une plateforme de test. Nous avons créé un espace dédié "MetaEducation" sur lequel vous pouvez créer et générer vos propre cartes.
 
 Note: sur cette plateforme, une carte mentale est appelée ***Renkan***.
 
