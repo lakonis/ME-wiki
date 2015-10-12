@@ -78,4 +78,4 @@ Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de réc
 
 [Annotation vidéo]: scenar_annot.md
 [Carte mentale]: scenar_carte.md
-[Parcours pédagogique]:
+[Parcours pédagogique]: scenar_parcours.md

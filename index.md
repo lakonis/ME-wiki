@@ -25,5 +25,5 @@ Note: le site sera mis à jour régulièrement au cours du projet et des différ
 [la journée de lancement]: lancement.md
 [annotation vidéo]: scenar_annot.md
 [carte mentale]: scenar_carte.md
-[parcours pédagogique]:
+[parcours pédagogique]: scenar_parcours.md
 [Groupe de travail]: groupe.md

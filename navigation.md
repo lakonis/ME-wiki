@@ -21,6 +21,13 @@
   * [Tutoriel outil](tuto_carte.md)
   * [Accès à l'outil](acces_carte.md)
 
+[Parcours pédagogiques]()
+
+  * [Scénario pédagogique](scenar_parcours.md)
+  * [Tutoriel outil](tuto_parcours.md)
+  <!-- * [Accès à l'outil](acces_parcours.md) -->
+
+
 [gimmick:theme](cosmo)
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
