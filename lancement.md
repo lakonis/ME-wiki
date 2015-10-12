@@ -22,13 +22,12 @@ Il s'agit donc bien d'une part de découvrir, tester et prendre en main les outi
 |*16h30*|*Fin des ateliers*|
 
 ------
-## Cahier de support
+## Cahier individuel
 ------
 
-Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez uniquement les présentations des scénarios. Ce cahier vous permet de prendre des notes pendant les présentations, afin d'alimenter les discussions lors des ateliers de l'après-midi.
+Un cahier imprimé vous est remis au début de la journée. Vous y retrouvez les supports de présentations de la matinée. Ce cahier vous permet de prendre des notes pendant les présentations, afin d'alimenter les discussions lors des ateliers de l'après-midi.
 
 <i class="fa fa-arrow-right"></i> Tous les éléments présentés sont à consulter ou à télécharger depuis les pages outils : [Annotation vidéo], [Carte mentale], [Parcours pédagogique].
-
 
 ------
 ## Ateliers de scénarisation
@@ -50,18 +49,20 @@ Sur la base du scénario pédagogique présenté le matin et des questions posé
 Les discussions pourront porter sur l'intérêt pédagogique du scénario d'usage de l'outil, sur l'ergonomie de l'outil, sur les ressources et contenus à utiliser, sur l'usage de l'enseignant et sur *ceux* des élèves.
 
 Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de récolter les retours et les idées évoquées lors de l'atelier, ainsi que de rédiger brièvement le scénario pédagogique final.
-***Les cahiers de support*** sont à disposition pour se repérer ou pour prendre des notes de manière individuelle pendant la session du matin.
+***Les cahiers individuels*** sont à disposition pour se repérer ou pour prendre des notes de manière individuelle pendant la session du matin.
 
 
 ---
 
 A titre indicatif, quelques questions pour orienter la discussion&nbsp;:
 
-* Quels sont ses objectifs d’apprentissage ?
-* Pour réaliser quelles activités pédagogiques ?
-* Avec quels contenus pédagogiques ?
-* Quelles fonctionnalités sont utilisées ? dans quelle ordre d’utilisation ?
-
+* Intérêt pédagogique ?
+* Comment l’introduire en classe, quel usage ?
+* Quels seraient les objectifs d’apprentissage ?
+* Pour réaliser quelles activités ?
+* Avec quels contenus ?
+* Quelles fonctionnalités seraient utiles ? dans quelle ordre d’utilisation ?
+* Outil de création/préparation de ressource, outil de scénarisation, ou support d’activité ?
 
 Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario, en vue de concevoir un tableau de bord pour l'enseignant :
 

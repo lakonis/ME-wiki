@@ -7,15 +7,23 @@ Note: sur cette plateforme, une carte mentale est appelée ***Renkan***.
 Attention: Aucune connexion n'est nécessaire sur cette plateforme. **Merci de respecter les productions de vos collègues.**
 Pour la phase 2 des expérimentations avec les élèves, une plateforme dédiée sera mise en place avec authentification.
 
+---
+
+### Accès à l'outil
+
 <i class="fa fa-arrow-right"></i> **[Espace MetaEducation](http://renkan.iri-research.org/renkan/s/431b537f-6907-11e5-9c79-df1f6aaa03d9)**
 
 
 Dans cet espace, vous retrouvez la carte *Madame Bovary*.
 
 ---
+### Créer une carte
+
 Pour créer une nouvelle carte, entrez le titre de la carte dans le champs et cliquez sur OK. ![Nouvelle Carte](nouvellecarte.png)
 
 ---
+### Actions sur les cartes
+
 Dans la liste des cartes créées, le menu permet d'effectuer des actions simples sur les cartes&nbsp;:
 
 * **éditer une carte :** ouvre la carte en édition
@@ -25,3 +33,6 @@ Dans la liste des cartes créées, le menu permet d'effectuer des actions simple
 * **exporter une carte :** permet de télécharger la carte dans un fichier JSON.
 
 ![Action Carte](carteaction.png)
+
+----
+Note: Il sera possible de récupérer vos cartes produites sur cette plateforme de test et de les réintégrer dans la platforme finale mise à disposition pour la phase 2 de l'expérimentation.

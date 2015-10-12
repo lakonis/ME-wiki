@@ -8,7 +8,7 @@
 |Niveaux concernés | tout niveau selon l'usage pédagogique|
 | Ressources | vidéo : toute ressource vidéo disponible depuis la GED ou vos propres vidéos Youtube|
 
-## Intro
+## En introduction
 
 L'outil Ligne de temps est un outil d'annotation vidéo déjà largement diffusé dans les classes pour faire de l'analyse filmique. Un large panel de scénarios pédagogiques peuvent être imaginés à partir de l'annotation vidéo. Une annotation peut constituer un chapitrage, un commentaire, une description, une interprétation, etc. C'est donc tout un appareillage critique qui est mobilisable.
 
@@ -24,8 +24,8 @@ Hint: Vous pouvez télécharger depuis le groupe de travail dédié [la présent
 **La présentation du scénario**
 <iframe src="https://docs.google.com/presentation/d/1d5005oWsiBb-zK4eowi66bIDxR4nk2fTpN1MkWJjKDU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Le document rédigé**
+**Le scénario rédigé**
 <iframe src="https://docs.google.com/document/d/1rnBdwq66oqFs8DLOBBZy39_trOt_bxpVF45l-70kL5k/pub?embedded=true" width="800" height="600"></iframe>
 
-[slides scénario]:
-[doc scénario]:
+[slides scénario]: https://ent.enteduc.fr/grp/1999990M/experimentations/Documents/Phase%201/MetaEducation%20Annot%20Video%20_Charade_.pptx
+[doc scénario]: https://ent.enteduc.fr/grp/1999990M/experimentations/Documents/Phase%201/MetaEducation%20Annotation%20vid%C3%A9o%20_Doc%20sc%C3%A9nario%20Charade_.pdf
