@@ -65,8 +65,6 @@ Hint: ***Une fiche scénario collaborative*** permettra à chaque groupe de réc
   * Quelles fonctionnalités seraient utiles ? dans quelle ordre d’utilisation ?
   * Outil de création/préparation de ressource, outil de scénarisation, ou support d’activité ?
 
-Les questions suivantes peuvent également faire l'objet d'une discussion plus avancée sur la validation pédagogique d'un outil ou d'un scénario, en vue de concevoir un tableau de bord pour l'enseignant.
-
 2) En terme de conception d’un tableau de bord pour l’enseignant, pourriez-vous indiquer :
 
   * Comment identifiez-vous que vos élèves sont engagés ou non ? avec quels indices ?
