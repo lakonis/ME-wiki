@@ -1,8 +1,13 @@
-# MetaEducation - Expérimentations
+# ME-WIKI
 
-[Phase 1](phase1.md)
-[Phase 2](phase2.md)
-[Phase 3](phase3.md)
+[Phase 1]()
+
+  * [Objectifs](phase1.md)
+  * [Lancement (13 oct 2015)](lancement.md)
+  * [Groupe de travail](groupe.md)
+
+[*Phase 2*]()
+[*Phase 3*]()
 
 [Annotation vidéo]()
 
@@ -15,6 +20,17 @@
   * [Scénario pédagogique](scenar_carte.md)
   * [Tutoriel outil](tuto_carte.md)
   * [Accès à l'outil](acces_carte.md)
+
+[Parcours pédagogiques]()
+
+  * [Scénario pédagogique](scenar_parcours.md)
+  * [Tutoriel outil](tuto_parcours.md)
+  <!-- * [Accès à l'outil](acces_parcours.md) -->
+
+
+[gimmick:theme](cosmo)
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 <!--
 * présentation des outils
